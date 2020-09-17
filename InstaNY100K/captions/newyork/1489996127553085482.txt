@@ -1,0 +1,1 @@
+Yo guys! I'm finally getting my head around how Firebase works and how to layup your database organized! It's a really powerful tool that you shouldn't underestimate! What are you currently doing with code? Stay fresh and keep coding!
